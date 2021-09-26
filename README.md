@@ -1,2 +1,2 @@
 # edu
-Educational coding and stuff testing
+Educational coding and stuff testing.
